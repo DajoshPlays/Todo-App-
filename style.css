@@ -250,4 +250,7 @@ select option {
     flex-direction: column;
     gap: 1rem;
   }
+  form input{
+    width: 70%;
+  }
 }
